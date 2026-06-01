@@ -2,6 +2,12 @@
 
 This project was developed as part of a learning exercise to practice building a basic RESTful API using ASP.NET Core and Entity Framework.
 
+## Why I built this
+
+This project was developed as part of my journey learning backend development with ASP.NET Core.
+
+My goal was to understand how APIs, Entity Framework and database persistence work together while applying clean coding practices and automated testing concepts from my QA background.
+
 ---
 
 ## 🚀 Technologies
@@ -89,4 +95,4 @@ Future improvements may include:
 ## 👩‍💻 Author
 
 **Jéssica Galhardi**
-Software Developer | QA | .NET Enthusiast
+Creative Technologist | QA Background | Exploring AI, Product & Software Development
